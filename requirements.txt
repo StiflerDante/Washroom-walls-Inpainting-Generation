@@ -1,0 +1,3 @@
+git+https://github.com/facebookresearch/segment-anything.git
+torch torchvision
+-U git+https://github.com/luca-medeiros/lang-segment-anything.git
